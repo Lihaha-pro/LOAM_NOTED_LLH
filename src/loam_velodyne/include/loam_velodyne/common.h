@@ -34,7 +34,7 @@
 
 #include <pcl/point_types.h>
 
-typedef pcl::PointXYZI PointType;
+typedef pcl::PointXYZI PointType;//定义PointType类型为PointXYZI
 
 inline double rad2deg(double radians)
 {
